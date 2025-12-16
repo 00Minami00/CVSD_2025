@@ -1,0 +1,10 @@
+student ID: b11202042  
+
+Clock Period: 3.08 (ns)
+
+simulation time for tb1: 9905.28 (ns)
+simulation time for tb2: 10299.52 (ns)
+simulation time for tb3: 6504.96 (ns)
+simulation time for tb4: 4977.28 (ns)
+
+Area: 420118.710572 (um^2)
